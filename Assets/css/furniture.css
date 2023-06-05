@@ -7,7 +7,7 @@
 }
 
  .img-sofa{
-    background-image: url(/Azubi/Ecommerce-website/Assets/images/1.webp);
+    background-image: url(../images/1.webp);
     height: 350px;
     width: 100%;
     background-position: center center;
@@ -23,7 +23,7 @@
 }
 
  .img-basket{
-    background-image: url(/Azubi/Ecommerce-website/Assets/images/basket.webp);
+    background-image: url(../images/basket.webp);
     height: 350px;
     width: 100%;
     background-position: center center;
@@ -94,7 +94,7 @@
 @media (min-width:700px) {
     .product-img{
         width: 30%;
-        display: inline-flex
+        display: inline-flex;
         
     }
 }
@@ -102,7 +102,7 @@
 @media (min-width:900px) {
     .product-img{
         width: 23%;
-        display: inline-flex
+        display: inline-flex;
         
     }
 }
@@ -118,7 +118,7 @@
 }
 
 .prod-sofa{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/13.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/13.webp);
 }
 
 .prod-cup{
@@ -126,25 +126,25 @@
 }
 
 .prod-addidas{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/3.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/3.webp);
 }
 
 .prod-pencil{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/4.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/4.webp);
 }
 
 .prod-holder{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/5.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/5.webp);
 }
 
 .prod-canvas{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/6.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/6.webp);
 }
 
 .prod-kors{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/5.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/5.webp);
 }
 
 .prod-leader{
-    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(/Azubi/Ecommerce-Website/Assets/images/6.webp);
+    background-image: linear-gradient(rgba(52, 48, 48, 0.5), rgba(52, 48, 48, 0.5)),url(../images/6.webp);
 }
