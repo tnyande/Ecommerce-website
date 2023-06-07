@@ -47,7 +47,6 @@
 
 /*CSS for screens bigger than 700px */
 @media (min-width:700px) {
-    /*
     .img-basket, .img-sofa{
         width: 48%;
         display: inline-flex
@@ -58,32 +57,17 @@
         width:245px;
         font-size: 20px;
     }
-    */
     
-    .message {
-        display: grid;
-        grid-template-columns: auto auto;
-        gap: 10px;
-        margin-right: 10px;
-    }
     
 }
 
 @media (min-width:700px) {
-   /*
     .product-img{
         width: 30%;
         display: inline-flex;
         
     }
-    */
-
-    .container-products {
-        display: grid;
-        grid-template-columns: auto auto auto;
-        gap: 10px;
-        margin-right: 10px;
-    }
+    
 }
 
 
@@ -111,16 +95,6 @@
     font-size: 16px;
 }
 
-.img-sofa hr, .img-basket hr{
-    border: 1px solid rgb(58, 58, 58); 
-    width: 3%;
-    text-align: center; 
-    margin-right: 170px; 
-    display: inline-block;
-    margin-bottom: 7px;
-    
-}
-
 .product-img {
     height: 350px;
     width: 100%;
@@ -140,8 +114,6 @@
 }
 
 
-
-
 .prod-head{
     text-align: center;
     margin: 30px;
@@ -154,18 +126,10 @@
 
 /*Css for screen size more than 900px */
 @media (min-width:900px) {
-   /*
     .product-img{
         width: 22.5%;
         display: inline-flex;
         
-    }
-    */
-    .container-products {
-        display: grid;
-        grid-template-columns: auto auto auto auto;
-        gap: 10px;
-        margin-right: 10px;
     }
 }
 

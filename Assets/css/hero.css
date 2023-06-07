@@ -1,3 +1,4 @@
+/* CSS for the hero setion */
 .header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),url(../images/2.webp);
     height: 100vh;
@@ -41,12 +42,16 @@ ul li{
     list-style: none;
 }
 
+/*CSS for screen size of 900px */
+
 @media (max-width:900px) {
     .logo-items{
         display: none;
     }
     
 }
+
+/* CSS for hero content */
 
 .logo-items ul{
     display: flex;
@@ -77,9 +82,10 @@ ul li{
     text-transform: uppercase;
     color: black;
     border-bottom: 0.5px solid black;
-    text-decoration: underline;
+    
 }
 
+/*CSS for screen size of 900px */
 @media (min-width:900px) {
     .header .headline{
         width: 450px;

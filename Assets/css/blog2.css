@@ -15,42 +15,24 @@
     margin-right: 10px;
 }
 
-
-
-
 @media (min-width:700px) {
-    .blog-imgs{
+    .blog-img{
         width: 45%;
         display: inline-flex;
         margin-left: 10px;
 
         
     }
-
-
 }
 
-/*
-@medias (min-width:900px) {
-
-    /*
+@media (min-width:900px) {
     .blog-img{
         width: 30%;
         display: inline-flex;
         margin-left: 10px;
         
     }
-    
-
-    .blog-container {
-        display: grid;
-        grid-template-columns: 30% 30% 30%;
-        gap: 10px;
-        margin-rights: 10px;
-    }
 }
-
-*/
 
 .blog-img a{
     display: block;
@@ -69,33 +51,6 @@
     margin-top: 50px;
     
     
-}
-
-/* CSS for Screen size of 900px for desktop */
-
-@media (min-width:900px) {
-
-    
-    .blog-img{
-        width: 30%;
-        display: inline-flex;
-        margin-left: 5px;
-    }
-
-    /*
-    .blog-imgs {
-        flex-basis: calc(33% - 20px);
-    }
-    
-
-    .blog-containers {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        column-gap: 10px;
-        margin-right: 0px;
-    }
-
-    */
 }
 
 .blog-1 {
@@ -120,7 +75,7 @@ hr{
     
 }
 
-.Blogs {
+.Blog {
     height: 100vh;
     position: absolute;
     width: 100%;
