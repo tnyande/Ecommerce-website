@@ -110,7 +110,7 @@
     background-image: url(../images/3\ \(1\).jpg);
 }
 
-hr{
+hr.hr-blog{
     border: 1px solid rgb(58, 58, 58); 
     width: 7%;
     text-align: center; 
